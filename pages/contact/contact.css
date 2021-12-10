@@ -1,0 +1,84 @@
+/* navbar */
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 1120px;
+  height: 900px; 
+  background: #0B0B22; /* remove this line when animation code below is un-commented*/
+  z-index: -1;
+}
+
+/* #slide {
+  position: absolute;
+  left: -1120px;
+  width: 1120px;
+  height: 900px;
+  background: #0B0B22;
+  -webkit-animation: slide 0.5s forwards;
+  -webkit-animation-delay: 2s;
+  animation: slide 1s forwards;
+  animation-delay: 2s;
+  z-index: -1;
+}
+
+@-webkit-keyframes slide {
+  100% { left: 0; }
+}
+
+@keyframes slide {
+  100% { left: 0; }
+} */
+
+
+button {
+  border-radius: 0 !important;
+  margin-left: 130px;
+  margin-top: 30px;
+  width: 300px;
+}
+#showreel-button {
+  padding-right: 110px;
+}
+
+.main-title{
+  font-family: "Crimson-text";
+  font-size: 38px;
+  margin: 2px;
+  padding-left: 85px;
+  margin-top: 60px;
+  color: white;
+}
+
+.main-body {
+  font-family: "Arial";
+  color: white;
+  padding-left: 185px;
+  padding-top: 10px;
+}
+#test{
+  color: white;
+  border-style: solid;
+}
+#hongkong{
+  margin-top: 100px;
+}
+#nav-title {
+  font-family: 'Roboto' 'sans-serif';
+  margin-left: 85px;
+}
+#navbarNav{
+  font-size: smaller;
+}
+.nav-link{
+  margin-right: 85px;
+}
+/* end of navbar */
+
+.card {
+  margin-top: 110px;
+  margin-left: 130px;
+}
+#form-title {
+  margin-top: 110px;
+}
+

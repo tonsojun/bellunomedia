@@ -1,0 +1,84 @@
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 1120px;
+  height: 900px; 
+  background: #0B0B22; /* remove this line when animation code below is un-commented*/
+  z-index: -1;
+}
+
+/* #slide {
+  position: absolute;
+  left: -1120px;
+  width: 1120px;
+  height: 900px;
+  background: #0B0B22;
+  -webkit-animation: slide 0.5s forwards;
+  -webkit-animation-delay: 2s;
+  animation: slide 1s forwards;
+  animation-delay: 2s;
+  z-index: -1;
+}
+
+@-webkit-keyframes slide {
+  100% { left: 0; }
+}
+
+@keyframes slide {
+  100% { left: 0; }
+} */
+
+
+button {
+  border-radius: 0 !important;
+  margin-left: 130px;
+  margin-top: 30px;
+  width: 300px;
+}
+#showreel-button {
+  padding-right: 110px;
+}
+
+.main-title{
+  font-family: "Crimson-text";
+  font-size: 25px;
+  margin: 2px;
+  padding-left: 130px;
+  margin-top: 150px;
+  color: white;
+}
+
+.main-body {
+  font-family: "Arial";
+  font-weight: lighter;
+  font-size: 15px;
+  color: white;
+  padding-left: 185px;
+  padding-top: 5px;
+}
+.main-body p{
+  line-height: 1.8;
+}
+#test{
+  color: white;
+  border-style: solid;
+}
+#hongkong{
+  margin-top: 100px;
+}
+#nav-title {
+  font-family: 'Roboto' 'sans-serif';
+  margin-left: 85px;
+}
+.nav-link{
+  margin-right: 85px;
+}
+#navbarNav{
+  font-size: smaller;
+}
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding-left: 40px;
+}
