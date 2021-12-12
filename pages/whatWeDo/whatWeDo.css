@@ -8,3 +8,22 @@
 #navbarNav{
   font-size: smaller;
 }
+
+.title {
+  font-size: 15px;
+  line-height: 1.625em;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-family: "Proxima Nova",sans-serif;
+  letter-spacing: .19em;
+  color: #6F6F6F;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  padding-left: 85px;
+}
+.title-text{
+  color: #1A1A1A;
+  font-family: "Crimson Text",serif;
+  font-size: 30px;
+  padding-left: 85px;
+}
