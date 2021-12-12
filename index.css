@@ -105,3 +105,19 @@ button {
   display: table;
   clear: both;
 }
+
+.contact-title{
+  font-family: "Crimson-text";
+  padding-top: 80px;
+}
+.contact-main{
+  font-family: "Arial";
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+#contact-button-text{
+  padding-bottom: 40px;
+}
+#contact-button{
+  border-radius: 0 !important;
+}
